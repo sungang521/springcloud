@@ -12,6 +12,7 @@
     <modules>
         <module>mongo</module>
         <module>redis</module>
+        <module>java8</module>
     </modules>
 
 
