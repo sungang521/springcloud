@@ -1,4 +1,4 @@
-package com.sungang.day1.bean;
+package com.sungang.day1;
 
 import lombok.Getter;
 import lombok.Setter;

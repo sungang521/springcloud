@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 
-@Controller
+
 @RestController
 public class UserController {
     @Autowired

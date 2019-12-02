@@ -1,6 +1,5 @@
 package com.sungang.day1;
 
-import com.sungang.day1.bean.User;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.data.redis.core.RedisTemplate;

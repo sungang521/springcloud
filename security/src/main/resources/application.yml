@@ -1,0 +1,15 @@
+server:
+  port: 8031
+spring:
+  security:
+    user:
+      name: sungang
+      password: 123456
+#spring:
+#  application:
+#    name: spirng-boot-mongodb
+#  data:
+#    mongodb:
+#      host: localhost   #同127.0.0.1
+#      port: 27017
+#      database: sungang    #指定操作的数据库
